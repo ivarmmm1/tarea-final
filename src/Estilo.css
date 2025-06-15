@@ -1,0 +1,23 @@
+.picture{
+    width: 260px;
+    height: 230px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-top: 5px;
+    border: 2px solid black;
+}
+
+.PelisFondo {
+    background-color: lightblue;
+    background-image: url("./public/fondo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.PrincipalFondo {
+    background-color: rgb(131, 180, 97);
+    background-image: url("./public/fondo0.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
